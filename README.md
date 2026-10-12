@@ -1,8 +1,8 @@
 # 第 9 届全国大学生嵌入式芯片与系统设计竞赛：ST 杯获奖作品半开源
 
-![Award](https://img.shields.io/badge/竞赛-国家一等奖-blue) ![ST Cup](https://img.shields.io/badge/ST杯-获奖-red) ![Platform](https://img.shields.io/badge/MCU-SR6P3-green) ![Language](https://img.shields.io/badge/C-Embedded-orange)
+![Award](https://img.shields.io/badge/竞赛-国家一等奖-blue) ![ST Cup](https://img.shields.io/badge/ST杯-获奖-red) ![Platform](https://img.shields.io/badge/MCU-SR6P3C4-green) ![Language](https://img.shields.io/badge/C-Embedded-orange)
 
-本作品为基于 SR6P3 的空地两栖越野飞行汽车，获第九届全国大学生嵌入式芯片与系统设计竞赛国家一等奖及 ST 杯。这里是整套项目的母仓库，硬件工程、代码、文档都从这里开始找。
+本作品为基于 SR6P3C4 的空地两栖越野飞行汽车，获第九届全国大学生嵌入式芯片与系统设计竞赛国家一等奖及 ST 杯。这里是整套项目的母仓库，硬件工程、代码、文档都从这里开始找。
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 作品简介
 
-本作品为基于 **SR6P3** 的陆空一体自主搜救越野飞行汽车，实现遥控手动与 GPS 自主巡航双工作模式，支持地面行驶与空中飞行自由切换，适配多路况野外作业场景。
+本作品为基于 **SR6P3C4** 的陆空一体自主搜救越野飞行汽车，实现遥控手动与 GPS 自主巡航双工作模式，支持地面行驶与空中飞行自由切换，适配多路况野外作业场景。
 
 - **手动模式**：车与无人机自由切换行驶，操作人员通过遥控器直接控制
 - **自动模式**：GPS 航点打点、自主路径巡航，根据航点工况自动切换地面/飞行
